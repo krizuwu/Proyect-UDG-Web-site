@@ -3,9 +3,22 @@
 body{
 	padding: 5px auto;
     font-family: 'El Messiri', sans-serif;
-    background:url(img/bg3.jpg) fixed no-repeat;
     background-size:cover;
+ }
+/*Main contain */
+
+.content > article:nth-child(1) > h1:nth-child(1){
+    color: #16bfb2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
 }
+.text-justify{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+
+}
+
 .container{
    background-color: white;
    padding-right:0px;
@@ -22,46 +35,15 @@ body{
 }
 
 .header_top{
-    background:url(img/header_img4.jpg) fixed no-repeat;
+    
     width: 100%;
     height:323px;
-    background-size: 100% 80%!important;
-	font-family: 'El Messiri', sans-serif;
+    font-family: 'El Messiri', sans-serif;
 	
 
 }
 .header_top img{
 	border-radius: 50%;
-}
-/*this is for present menu*/
-.menu{background-color:#1f1f21!important;width:auto;height:35px}
-.nav{
-    min-height:37px!important;
-}
-.navbar-default {
-    background-color:#1f1f21!important;
-    border-color: #e7e7e7;
-}
-.menu ul{margin:0;padding:0px 5px;list-style:none;text-align:right;}
-.menu ul li{float:left;border-right:1px solid #fff;position:relative;text-align:right;}
-
-.menu ul li:last-child{border-right:0px solid #fff}
-.menu ul li a{background:rgba(20, 21, 23, 0.99);display:block;padding:10px 25px;text-decoration:none;color:#fff;}
-.menu ul li a:hover{background:#fff;color:#000;}
-
-/*This CSS id for Dropdown Menu*/
-.menu ul li ul{position:absolute;left:-99999px;z-index:10000000}
-.menu ul li:hover ul{left:0px;}
-.menu ul li ul li{float:none;border-top:1px solid #fff;width:200px;border-right:0px solid;border-left:0px solid;}
-.menu ul li ul li:first-child{border-top:0px solid #fff;}
-.menu ul li ul li:last-child{border-bottom:0px solid #fff;}
-.menu ul li ul li a{background:#;display:block;padding:3px 52px;text-decoration:none;color:#fff;}
-.menu ul li ul li a:hover{background:#fff;color:#000;}
-@media screen and(max-width:720px){
-    .menu ul li{float:none;}
-}
-@media screen and(max-width:520px)and (min-width: 320px){
-    .menu ul li{float:none;}
 }
 
 .content{
@@ -69,15 +51,8 @@ body{
   	    color:#2b2121;
         padding: 20px;
 }
-.main_content{
 
-}
-.fsection{
-    
-	background-color:rgba(20, 21, 23, 0.99);
-	padding: 20px;
-	color: #fff;
-}
+
 .share_img img {
     width:40px;
     height:40px;
@@ -112,6 +87,10 @@ td{
 	top: 0px;
 	z-index: 9999999999;
 }
+
+
+
+
 /*--------this is for input type--------*/
 input[type="text"],input[type="email"],input[type="password"],input[type="number"],input[type="date"],select,option{
     text-align: initial;
@@ -219,9 +198,11 @@ label {
 }
 
 li{
-    text-decoration: none;
+   
     list-style: none;
-    color:#fff; 
+    color:rgb(224, 224, 224); 
+    border-style: none double;
+    margin-right: 5px;
 }
 
 
@@ -251,5 +232,34 @@ li{
 }
 a:active{
     background-color:#fff;
+}
+
+.d-block{
+    width: 500px;
+    height: 500px;
+}
+.nav-item{
+    font-size: medium;
+    
+}
+
+/* Footer style  */
+
+.fsection{
+    
+	background-color:#16bfb2;
+	padding: 20px;
+	color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    border-style: solid;
+    border-color: #fff;
+}
+.col-md-4{
+    border-style: solid;
+    border-left: #fff;
+    border-bottom: #16bfb2;
+    border-top: #16bfb2;
+
 }
 
