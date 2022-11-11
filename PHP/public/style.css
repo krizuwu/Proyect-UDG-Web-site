@@ -63,7 +63,7 @@ body{
     height: 250px;
 }
 table{border-collapse: collapse;
-	background-color: khaki;
+	background-color:#c5b3b3;
 }
 table,th,td{
      border: 1px solid #000;
@@ -87,6 +87,27 @@ td{
 	top: 0px;
 	z-index: 9999999999;
 }
+.col-md-8 > article:nth-child(1) > h3:nth-child(1){
+    color: #16bfb2;
+    margin-top: 15px;
+}
+.text-center{
+    color: #16bfb2;
+    margin-top: 15px
+
+}
+form.text-center > label:nth-child(10) > textarea:nth-child(1)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -240,8 +261,12 @@ a:active{
 }
 .nav-item{
     font-size: medium;
-    
+   
 }
+
+
+
+
 
 /* Footer style  */
 

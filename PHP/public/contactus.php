@@ -5,7 +5,7 @@
 
 	<!-- this is for donor registraton -->
 	<div class="contactus"  style="background-color:#fff;">
-		<h3 class="text-center" style="background-color:#272327;color: #fff;">Contact Us</h3>
+		<h3 class="text-center" style="background-color:#16bfb2;color: #fff;">Contact Us</h3>
 
 		
 		
@@ -15,28 +15,45 @@
 					
 				</article>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-6"style= "margin-top:15px ;margin-bottom:15px ;">
 				<h2 class="text-center">Your Message</h2>
-				<form action="" method="post" class="text-center">
-						<label>
-								First Name: <input type="text" name="firstname" value="" placeholder="firstname" required>
-						</label><br><br>
+				<div class="card">
+	<div class="card-header">Login</div>
+	<div class="card-body">
 
-						<label>
-								Last Name: <input type="text" name="lastname" value="" placeholder="lastname" required>
-						</label><br><br>	
+		<form>
+<!-- Input type text -->
+<div class="form-group">
+	<label for="input_id_1">First name</label>
+	<input type="text" class="form-control" name="input_id_1" id="input_id_1" placeholder="First name" required>
+	<small class="text-muted form-text">First name</small>
+</div>
 
-						<label>
-								Email: <input type="email" name="email"  value="" placeholder="Your email" required>
-						</label><br><br>
-						<label>
-								Your Comment: <textarea name="comment" id="" cols="30" rows="4" required></textarea> 
-						</label><br><br>
-								
-						<input type="submit" value="Send Us" name="submit" style="margin-top: 75px;border-radius: 2px;"/>
-						<!-- <button name="submit" type="submit" class="btn btn-info"><i class="icon-signin icon-large"></i>&nbsp;Sign Up</button>
- -->
-					</form><br><br><br>
+<!-- Input type text -->
+<div class="form-group">
+	<label for="input_id_2">Last Name</label>
+	<input type="text" class="form-control" name="input_id_2" id="input_id_2" placeholder="last name" required>
+</div>
+
+<!-- Input type text -->
+<div class="form-group">
+	<label for="input_id_3">Email</label>
+	<input type="text" class="form-control" name="input_id_3" id="input_id_3" placeholder="Email" required>
+</div>
+
+<!-- textarea -->
+<div class="form-group">
+	<label for="textarea_id_4">Your comments:</label>
+	<textarea class="form-control" rows="2" name="textarea_id_4" id="textarea_id_4"></textarea>
+	<small class="text-muted form-text">Your comments:</small>
+</div>
+
+<button type="submit" class="btn btn-primary" name="button_id_5" id="button_id_5">Send US</button>
+		</form>
+
+
+	</div>
+</div>
 			</div>
 
           

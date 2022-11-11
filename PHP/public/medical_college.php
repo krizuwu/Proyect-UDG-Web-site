@@ -3,7 +3,7 @@
 
 	<!-- mc info -->
 	<div class="form-group mc">
-		<h2 class="text-center" style="background-color:#272327;color: #fff;">Public Medical College</h2>
+		<h2 class="text-center" style="background-color:#16bfb2;color: #fff;">Public Medical College</h2>
 
                               <table cellpadding="10" cellspacing="10" class="table table-hover">   
 

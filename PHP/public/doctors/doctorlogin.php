@@ -16,30 +16,13 @@
 
 
 
-<div class="container-fluid">
-		<div class="header_top">
-			
-			
-		</div>
+<?php include('header.php'); ?>
 
-	<!-- 	this is for menu -->
-	<div class="navbar navbar-default nav">
-		<nav class="menu">
-			<ul>
-				<li><a href="../index.php">Home</a></li>
-			</ul>
-		</nav>
-	</div>
+
 	
-
-
-
-
-
-
 	<!-- this is for donor registraton -->
 	<div class="login" style="background-color:#fff;">
-		<h1 class="text-center" style="background-color:#272327;color: #fff;">Doctor Panel</h1>
+		<h1 class="text-center" style="background-color:#16bfb2;color: #fff;margin-bottom: 30px;">Doctor Panel</h1>
 			<div class="formstyle" style="padding: 10px;border: 1px solid lightgrey;margin-right: 376px;margin-left: 406px; margin-bottom: 25px;background-color:#f3f3f8;color:#141313;">
 				<form action="" method="post" class="text-center">
 					<label>

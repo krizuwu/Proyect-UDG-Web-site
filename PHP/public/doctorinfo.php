@@ -4,7 +4,7 @@
 	<!-- mc info -->
 	<div class="doctors">
         
-		                    <h3 class="text-center" style="background-color:#272327;color: #fff;">The Doctors</h3>
+		                    <h3 class="text-center" style="background-color:#16bfb2;color: #fff;">The Doctors</h3>
                                       
                                  
                              <div class="col-md-12" style="">
