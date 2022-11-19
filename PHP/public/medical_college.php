@@ -13,6 +13,26 @@
                                   
                               </table>
 	</div>
+	<div class="">
+		<div class="row">
+			<div class="col-6">
+			<img src="./Ubicacion.PNG" alt="">
+			</div>
+		
+			<div class="col-6">	
+				<div class="card" style="width: 30rem;">
+                <div class="card-body">
+                 <h5 class="card-title">Schedules </h5>
+                   <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                      <p class="card-text">Monday to Saturday from 9am to 7pm</p>
+                      <br>
+                      <p class="card-text">Sunday closed</p>
+  
+                 </div>
+            </div>
+	  </div>
+  </div>
+</div>
 	
 
     <!-- footer section --> 
