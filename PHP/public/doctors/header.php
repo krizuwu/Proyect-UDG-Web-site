@@ -24,21 +24,21 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="index.php">Home</a>
+        <a class="nav-link" href="../index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="medical_college.php">Medical College</a>
+        <a class="nav-link" href="../medical_college.php">Medical College</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="doctorinfo.php">Medical Doctors</a>
+        <a class="nav-link" href="../doctorinfo.php">Medical Doctors</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="about.php">About Us</a>
+        <a class="nav-link" href="../about.php">About Us</a>
       </li><li class="nav-item">
-        <a class="nav-link" href="contactus.php">Contact Us</a>
+        <a class="nav-link" href="../contactus.php">Contact Us</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="signin.php">User Login</a>
+        <a class="nav-link" href="../signin.php">User Login</a>
       </li>
     </ul>
 </nav>
