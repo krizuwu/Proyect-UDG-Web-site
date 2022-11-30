@@ -4,7 +4,7 @@
 	<!-- mc info -->
 	<div class="doctors">
         
-		                    <h3 class="text-center" style="background-color:#16bfb2;color: #fff;">The Doctors</h3>
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Conoce a Nuestros Doctores </h1>
                                       
                                  
                              <div class="col-md-12" style="">

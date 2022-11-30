@@ -6,8 +6,8 @@
 
 
 	<!-- this is for donor registraton -->
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Donor/Seeker Login </h1>
 	<div class="login" style="background-color:#fff;">
-		<h3 class="text-center" style="background-color:#272327;color: #fff;">Donor/Seeker Login</h3>
 			<div class="formstyle" style="float: right;padding:20px;border: 1px solid lightgrey;margin-right:415px; margin-bottom:30px;background-color: #101011;color: #0d0623;">
 				<form action="" method="post" class="text-center form-group">
 					<label>

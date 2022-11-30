@@ -3,8 +3,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Medical Management System</title>
+	<title>Nucleo de Tratamientos Psicologicos ADES</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
 	
 	<!-- CSS only -->
@@ -24,21 +25,21 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="index.php">Home</a>
+        <a class="nav-link" href="index.php">Inicio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="medical_college.php">Medical College</a>
+        <a class="nav-link" href="medical_college.php">Nuestra Clinica</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="doctorinfo.php">Medical Doctors</a>
+        <a class="nav-link" href="doctorinfo.php">Nuestros Doctores</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="about.php">About Us</a>
+        <a class="nav-link" href="about.php">Acerca de Nosotros</a>
       </li><li class="nav-item">
-        <a class="nav-link" href="contactus.php">Contact Us</a>
+        <a class="nav-link" href="contactus.php">Contacto</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="signin.php">User Login</a>
+        <a class="nav-link" href="signin.php">Login</a>
       </li>
     </ul>
 </nav>

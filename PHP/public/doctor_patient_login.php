@@ -5,8 +5,9 @@
 
 
 	<!-- this is for donor registraton -->
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Inicia Sesion </h1>
 	<div class="main_content" style="background-color:#fff;">
-		<h2 class="text-center" style="background-color:#16bfb2;color: #fff;padding: 5px;">Choose Your Login</h2>
+
 		<div class="col-md-12">
 			<div class="box1" style="float: left;margin-left: 325px;">
 				<h4 class="text-center;" ><a href="patient_login.php" style="text-decoration: none;color:red;">I am Patient</a></h4>

@@ -5,7 +5,7 @@
 
 	<!-- this is for donor registraton -->
 	<div class="contactus"  style="background-color:#fff;">
-		<h3 class="text-center" style="background-color:#16bfb2;color: #fff;">Contact Us</h3>
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Contacto </h1>
 
 		
 		

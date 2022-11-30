@@ -5,8 +5,8 @@
 
 
 	<!-- this is for donor registraton -->
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Contacto </h1>
 	<div class="contact"  style="background-color: #7faf81;">
-		<h1 class="text-center">Contact us</h1>
 		<form  enctype="multipart/form-data" method="post" class="text-center">
 			
 			 Name:<input type="text" name="t1"  required="required" pattern="[a-zA-Z _]{2,15}" title="please enter only character  between 2 to 15 for donor name" />  <br>

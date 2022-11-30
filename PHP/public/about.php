@@ -6,7 +6,7 @@
 
 	<!-- this is for donor registraton -->
 	<div class="main_content" style="background-color:#fff;">
-		<h3 class="text-center" style="background-color:#16bfb2;color: #fff;">About Us</h3>
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Acerca de Nosotros </h1>
 		<div class="col-md-12">
 			<div class="col-md-6">
 				<img src="img/aboutimag33.jpg" alt="" class="img-responsive">

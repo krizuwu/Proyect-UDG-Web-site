@@ -2,13 +2,13 @@
 <!-- carousel imagenes -->
 <div class="container-fluid">
 	
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleControls" style="width: 100%; height: 100%" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="./photo/header1.jpg" class="d-block w-100" alt="...">
+      <img src="./photo/header1.jpg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="./photo/header2.jpg" class="d-block w-100" alt="...">
+      <img src="./photo/header2.jpg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -25,9 +25,12 @@
 	<!-- this is for welcome -->
 	<div class="content">
 		<article>
-			<H1>Welcome</H1>
-			<p class="text-justify">Blood is universally recognized as the most precious element that sustains life. It saves innumerable lives across the world in a variety of conditions. The need for blood is great - on any given day, approximately 39,000 units of Red Blood Cells are needed. More than 29 million units of blood components are transfused every year. Donate Blood Despite the increase in the number of donors, blood remains in short supply during emergencies, mainly attributed to the lack of information and accessibility. We positively believe this tool can overcome most of these challenges by effectively connecting the blood donors with the blood recipients.
-			</p>
+			<H1>¡Bienvenido!</H1>
+
+			<div style="width: 50%; margin-left: auto; margin-right: auto; float: left; margin-top: 40px;">
+			<p class="text-justify" style="align-content: center;" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare suspendisse sed nisi lacus. Augue ut lectus arcu bibendum at varius vel pharetra. Tempus egestas sed sed risus. Proin fermentum leo vel orci porta. Eget mauris pharetra et ultrices neque. Egestas congue quisque egestas diam in arcu. Accumsan sit amet nulla facilisi morbi tempus. Vitae justo eget magna fermentum. Tristique senectus et netus et malesuada fames ac. Massa eget egestas purus viverra. Posuere sollicitudin aliquam ultrices sagittis. Vulputate sapien nec sagittis aliquam malesuada bibendum. Mattis aliquam faucibus purus in. Feugiat scelerisque varius morbi enim nunc faucibus a. Viverra vitae congue eu consequat ac. Sem viverra aliquet eget sit.
+			</p></div>
+			<div style="width: 50%; margin-left: auto; margin-right: auto; float: right; margin-top: 40px; justify-content: center;" > <img style="padding-left: 10px; padding-right: 10px; align-content: center; text-align: center;" src="img/header33.jpg" width="80%" height="80%" alt="Sesiones en grupo"/> </div>
 		</article>
 
 
@@ -49,14 +52,14 @@
 	<div class="main_content">
 		<div class="col-md-8">
 			<article>
-			<h3 style="font-weight: bold;font-family:inherit;">Finds Doctors from anywhere anytime!</h3><hr>
+			<h3 style="font-weight: bold;font-family:inherit;">Tenemos un doctor especializado en cada área</h3><hr>
 				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt et dolores neque eaque. Labore, dicta similique ipsam odit saepe obcaecati suscipit ducimus, commodi dolores animi sed beatae, quia nulla facilis.lorem 
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi.</p>
 			</article>
 		</div>
 		<div class="col-md-4">
-			<h3 class="text-center" style="font-weight:bold;font-family:inherit;">Doctors Appoinment...?</h3><hr>
+			<h3 class="text-center" style="font-weight:bold;font-family:inherit;">Agenda una Cita</h3><hr>
 			<ul class="text-justify">
 				
 				Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi.  Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi

@@ -5,17 +5,21 @@
 
 
 	<!-- this is for donor registraton -->
+<h1 class="text-center" style="background-color:#16bfb2;color: #fff; height: 40px; font-family: 'Poppins', sans-serif;">Inicia Sesión </h1>
 	<div class="main_content" style="background-color:#fff;">
-		<h3 class="text-center" style="background-color:#16bfb2;color: #fff; margin-bottom:15px;">User Login</h3>
 		<div class="formstyles" style="background-color: #101011;color: #0d0623;">
 				<div class="col-md-12">
 					
 					<div class="col-md-4"></div>
-					<div class="col-md-4" style="float: right;padding:20px 115px;border: 1px solid lightgrey;margin-right:415px; margin-bottom:30px;background-color:#f3f3f8;color:#141313;">
-						<h4 class="text-center;"><a href="patient_login.php">Patient login</a></h4>
-						<h4 class="text-center;"><a href="doctors/doctorlogin.php">Doctor login</a></h4>
+					
+					<div class="col-md-4" style="float: right;padding:40px 115px;border: 1px solid lightgrey;margin-right:415px; margin-bottom:50px;background-color:#f3f3f8;color:#141313;">
+						
+						<button><a class="btn-login" href="patient_login.php">Login Pacientes</a></button> <br> <br>
+						<button><a class="btn-login" href="doctors/doctorlogin.php">Login Doctores</a></button>
 					</div>
+					
 					<div class="col-md-4"></div>
+					
 					
 					
 				</div>
